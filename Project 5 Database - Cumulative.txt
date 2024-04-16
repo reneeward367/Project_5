@@ -1,0 +1,656 @@
+QUESTION: Describe an adiabatic system.
+
+ANSWER: An adiabatic system is a system in which no heat is transferred between the selected system and its surroundings.
+
+
+
+QUESTION: What is the purpose of the compressibility factor?
+
+ANSWER: The compressibility factor, Z, is used as an adjustment to the ideal gas equation (PV = ZnRT) to account for non-ideal behavior.
+
+
+
+QUESTION: What is the purpose of a catalyst?
+
+ANSWER: A catalyst is a substance used in chemical processes to greatly increase the rate of a reaction by decreasing the reaction's activation energy.
+
+
+
+QUESTION: What is a decanter used for in chemical engineering?
+
+ANSWER: A decanter is a device that is used to separate either a liquid and a solid phase or two liquid phases by gravity.
+
+
+
+QUESTION: Describe the difference between absorption and adsorption.
+
+ANSWER: Absorption is a process in which solute particles are transferred from one bulk phase to another. Adsorption is a surface phenomenon where solute particles adhere to the surface where the two phases contact.
+
+
+
+QUESTION: True or False: In a distillation process, the substance with the lower boiling point is the bottoms product and the substance with the higher boiling point is the overhead product.
+
+ANSWER: False
+
+
+
+QUESTION: True or False: Ethanol has a higher boiling point than water.
+
+ANSWER: False
+
+
+
+QUESTION: Explain the significance of degrees of freedom in engineering calculations.
+
+ANSWER: Degrees of freedom (DOF) can be calculated using the Gibbs Phase rule, and generally is the difference between the number of unknown variables in a situation minus the number of equations that can relate these variables. When DOF = 0, the problem is specified and can be fully solved.
+
+
+
+QUESTION: What is the purpose of a flare in chemical plants?
+
+ANSWER: A flare works to stabilize pressure in vessels by burning off excess hydrocarbon gas in a safe manner.
+
+
+
+QUESTION: What is the general form of the balance equation?
+
+ANSWER: The general form of the balance equation is: accummulation = inputs + generation - outputs - consumption
+
+
+
+QUESTION: True or False: There is no accumulation in a steady state process.
+
+ANSWER: True
+
+
+
+QUESTION: Describe and explain the purpose of a recycle stream in chemical engineering.
+
+ANSWER: A recycle stream is a process stream that transports unreacted material to an earlier point in the chemical process, typically to improve product purity and efficiency.
+
+
+
+QUESTION: Give a couple of reasons that explain the differences between design values and experimental values for chemical processes and equipment.
+
+ANSWER: Experimental data could be different from calculated data due to human error or instrument errors. Additionally, if the stream contains impurities, this could alter the accuracy of the original calculations.
+
+
+
+QUESTION: Explain the function and purpose of a condenser in chemical engineering.
+
+ANSWER: A condenser is a vessel that cools vapors and condenses them back into liquid form, typically to feed it back into a previous reactor or vessel.
+
+
+
+QUESTION: What makes a fluid "supercritical?"
+ 
+ANSWER: When a substance exists in a state above its critical temperature and above its critical pressure, it is deemed "supercritical."
+
+
+
+QUESTION: What conditions determine standard temperature and pressure (STP)?
+
+ANSWER: STP is generally defined as 0 degrees Celcius and 1 atmosphere.
+
+
+
+QUESTION: Explain the concept of sublimation in engineering terms.
+
+ANSWER: Submilation is the process of a substance converting directly from a solid phase to a gas phase.
+
+
+
+QUESTION: True or False: A substance's normal boiling point is its boiling point at 1 atmosphere of pressure.
+
+ANSWER: True
+
+
+
+QUESTION: Explain the concept of solubility (solid in liquid phase).
+
+ANSWER: Substance X's solubility substance Y is the maximum amount of substance X that can be dissolved in Y at equilibrium. 
+
+
+
+QUESTION: What does it mean when two substances are immiscible?
+
+ANSWER: When two substances are immiscible, it means that they are unable to mix and dissolve in one another.
+
+
+QUESTION: What are the fundamental classes of materials?
+
+ANSWER: The three primary classes of materials are Metallic, Polymeric, and Ceramic materials.
+
+
+
+QUESTION: What are the different application classes of materials?
+
+ANSWER: The two types of application or processing classes of materials are Composite and Electronic materials.
+
+
+
+QUESTION: True or False: Ferrous metals do not contain iron.
+
+ANSWER: False.
+
+
+
+QUESTION: Describe an alloy in the context of material science and engineering.
+
+ANSWER: In the context of material science, an alloy is a either mixture of two or more metals or a combination of a metal and a nonmetal.
+
+
+
+QUESTION: Describe an amorphous metal.
+
+ANSWER: An amorphous metal is one with a noncrystalline structure, which typically has a high elastic strain threshold.
+
+
+
+QUESTION: Explain the difference between an anode and a cathode.
+
+ANSWER: Anodes and cathodes are the two types of battery electrodes. An anode is the electrode that is oxidized (loses electrons) during the chemical reaction, and the cathode is the electrode that is reduced (gains electrons).
+
+
+
+QUESTION: True or False: Most polymeric materials have crystalline structures.
+
+ANSWER: False
+
+
+
+QUESTION: Explain the concept of smart materials in engineering terms.
+
+ANSWER: Smart materials are a type of material that can sense and respond to external stimuli.
+
+
+
+QUESTION: What are the characteristics of nanomaterials?
+
+ANSWER: In general, nanomaterials are defined as those materials whose characteristic length scale is smaller than 100 nanometers. They can be virtually any of the material classes (metallic, polymeric, ceramic, electronic, or composite).
+
+
+
+QUESTION: Explain the difference between materials science and materials engineering.
+
+ANSWER: Materials science is the discipline concerned with the search for knowledge regarding material properties and processes. Materials engineering takes the knowledge acquired from materials science and uses it in the application and design of products needed by society. 
+
+
+
+QUESTION: True or False: Regarding electromagnetic radiation, gamma rays have a longer wavelength than infrared waves.
+
+ANSWER: False
+
+
+
+QUESTION: Describe the difference between covalent and ionic bonding.
+
+ANSWER: Covalent bonding typically occurs between two nonmetals and involves electron sharing, whereas ionic bonding occurs between a metal and a nonmetal and involves a complete transfer of electrons.
+
+
+
+QUESTION: Explain the law of chemical periodicity in materials engineering terms.
+
+ANSWER: The law of chemical periodicity states that the properties of elements are functions of their atomic number periodically.
+
+
+
+QUESTION: Describe the concept of "lattice energy" in engineering terms.
+
+ANSWER: Lattice energy is the energy associated with the formation of a 3D solid from gaseous ions through ionic bonding.
+
+
+
+QUESTION: True or False: The first ionization energy of an electron is the smallest amount compared to the following ionization energies.
+
+ANSWER: False
+
+
+
+QUESTION: Explain Pauli's exclusion principle.
+
+ANSWER: Pauli's exclusion principle states that no two electrons can have the same set of four quantum numbers (principal, orbital, magnetic, spin).
+
+
+
+QUESTION: Explain the concept of electronegativity.
+
+ANSWER: Electronegativity is the degree by which atoms attract electrons to themselves.
+
+
+
+QUESTION: What is the principal quantum number, in materials engineering terms?
+
+ANSWER: The principal quantum number is the quantum number that represents the energy level of an electron.
+
+
+
+QUESTION: What is the orbital quantum number, in materials engineering terms?
+
+ANSWER: The orbital quantum number determines the shape of the electron cloud or the boundary space of the electron orbitals.
+
+
+
+QUESTION: What is the magnetic quantum number, in materials engineering terms?
+
+ANSWER: The magnetic quantum number represents the orientation of the electron orbitals within each subshell.
+
+
+
+QUESTION: Describe the process of steel tempering.
+ 
+ANSWER: Tempering is the process of heating a martensitic steel at a temperature below the eutectoid transformation temperature to make it softer and more ductile.
+
+
+
+QUESTION: Describe the process of martempering.
+
+ANSWER: Martempering is a modified quenching procedure used for steels to minimize distortion and cracking that may develop during uneven cooling of the heat-treated material.
+
+
+
+QUESTION: Describe the process of austempering.
+
+ANSWER: Austempering is an isothermal heat treatment that produces a bainite structure in some plain-carbon steels. The process provides an alternative procedure to quenching and tempering for increasing the toughness and ductility of some steels.
+
+
+
+QUESTION: True or False: The final structure of an austempered eutectoid plain-carbon steel is bainite.
+
+ANSWER: True
+
+
+
+QUESTION: True or False: Plain-carbon steels have high corrosion and oxidation resistance.
+
+ANSWER: False
+
+
+
+QUESTION: What are intermetallics?
+
+ANSWER: Intermetallics are a class of metallic materials that possess a unique combination of properties attractive to many industries, such as nickel aluminides, iron aluminides, and titanium aluminides for jet engine applications.
+
+
+
+QUESTION: What are shape-memory alloys?
+
+ANSWER: Shape-memory alloys can recover a previously defined shape when subjected to an appropriate heat-treatment procedure.
+
+
+
+QUESTION: True or False: Pearlite is a mixture of alpha ferrite and bainite.
+
+ANSWER: False
+
+
+
+QUESTION: What are the different classes of plastics?
+
+ANSWER: The two different classes of plastics are thermoplastics and thermosetting plastics.
+
+
+
+QUESTION: Describe the process of bulk polymerization.
+
+ANSWER: During bulk polymerization, the monomer and activator are mixed in a reactor that is heated and cooled as required. This process is used extensively for condensation polymerization where one monomer may be charged into the reactor and another added slowly. The bulk process can be used for many condensation polymerization reactions because of their low heats of reaction.
+
+
+
+QUESTION: Describe the process of solution polymerization.
+
+ANSWER: During solution polymerization, the monomer is dissolved in a nonreactive solvent that contains a catalyst. the heat released by the reaction is absorbed by the solvent, and so the reaction rate is reduced.
+
+
+
+QUESTION: Describe the process of suspension polymerization.
+
+ANSWER: During suspension polymerization, the monomer is mixed with a catalyst and then dispersed as a suspension in water. In this process, the heat released by the reaction is absorbed by the water. After polymerization, the polymerized product is separated and dried. This process is commonly used to produce many vinyl-type polymers such as polyvinyl chloride, polystyrene, polyacrylonitrile, and polymethyl methacrylate.
+
+
+
+QUESTION: Describe the process of emulsion polymerization.
+
+ANSWER: During emulsion polymerization, an emulsifier is used to disperse the monomer into very small particles. Suspension polymerization is then carried out.
+
+
+
+QUESTION: What is a stereoisomer?
+
+ANSWER: A stereoisomer is a molecular compound that has the same chemical composition as another compound but a different structural arrangement.
+
+
+
+QUESTION: Describe the process of extrusion in engineering terms.
+
+ANSWER: In the extrusion process, thermoplastic resin is fed into a heated cylinder, and the melted plastic is forced by a rotating screw through an opening in an accurately machined die to form continuous shapes. After exiting from the die, the extruded part must be cooled below its glass transition temperature to ensure dimensional stability.
+
+
+
+QUESTION: Describe the process of blow molding in engineering terms.
+
+ANSWER: In blow molding, a tube of heated plastic is placed between the jaws of a mold. The mold is closed to pinch off the ends of the cylinder, and compressed air is blown in, forcing the plastic against the walls of the mold.
+
+
+
+QUESTION: True or False: The process of injection molding can produce high-quality parts at a high production rate.
+
+ANSWER: True
+
+
+
+QUESTION: What are the application uses of epoxy resins?
+
+ANSWER: Epoxy resins are used for a wide variety of protective and decorative coatings because of their good adhesion, and good mechanical and chemical resistance. Typical uses are can and drum linings, automotive and appliance primers, and wire coatings. 
+
+
+
+QUESTION: What are elastomers?
+
+ANSWER: Elastomers, or rubbers, are polymeric materials whose dimensions can be greatly changed when stressed and will then return to their original dimensions when the deforming stress is removed.
+
+
+
+QUESTION: What is a plastic's glass transition temperature?
+
+ANSWER: A plastic's glass transition temperature is the center of the temperature range where a heated thermoplastic upon cooling changes from a rubbery, leathery state to that of brittle glass.
+
+
+
+QUESTION: List the basic ideas of fluid mechanics.
+
+ANSWER: Fluid mechanics is the study of forces and motions in fluids. It is based on 4 of the basic ideas in engineering: the conservation of mass principle, the first and second laws of thermodynamics, and Newton's second law of motion.
+
+
+
+QUESTION: Explain the concept of specific gravity.
+
+ANSWER: The specific gravity of a certain fluid is defined as the density of that fluid divided by the density of water at a standard temperature and pressure. It is used to solve for densities of desired fluids using tabulated specific gravity constants.
+
+
+
+QUESTION: Explain the difference between shear stress and shear strain.
+
+ANSWER: Shear stress is the force per unit area that acts parallel to a material's surface. Shear strain is the change or deformation from the original shape of a material after being subjected to a shear stress.
+
+
+
+QUESTION: What are non-Newtonian fluids?
+
+ANSWER: Non-Newtonian fluids are fluids that do not follow Newton's law of viscosity, which defines the relationship between the shear stress and shear rate of a fluid subjected to mechanical stress. 
+
+
+
+QUESTION: List the types of non-Newtonian fluids
+
+ANSWER: There are 3 primary types of non-Newtonian fluids: Pseduoplasic, Bingham, and Dilatant fluids.
+
+
+
+QUESTION: What are Pseudoplastic fluids?
+
+ANSWER: Pseudoplastic fluids are non-Newtonian fluids that show an apparent viscosity that decreases with increasing velocity gradient. Examples of these are slurries, polymer solutions, and blood. These fluids are referred to as shear-thinning fluids, which is the most common type of non-Newtonian behavior.
+
+
+
+QUESTION: What are Bingham fluids?
+
+ANSWER: Bingham fluids are non-Newtonian fluids that resist small shear stress indefinitely but flow easily under larger shear stresses. Examples are toothpaste, jellies, paints, and doughs.
+
+
+
+QUESTION: What are Dilatant fluids?
+
+ANSWER: Dilatant fluids are non-Newtonian fluids that show a viscosity that increases with the increasing velocity gradient. This behavior is called shear thickening. Examples are starch suspensions and some muds.
+
+
+
+QUESTION: Describe the concept of kinematic viscosity.
+
+ANSWER: Kinematic viscosity is defined as a fluid's absolute viscosity over its density.
+
+
+
+QUESTION: True or False: Surface tension is caused by the attractive forces in liquids.
+
+ANSWER: True
+
+
+
+QUESTION: True or False: Gauge pressure is defined as absolute pressure plus atmospheric pressure.
+
+ANSWER: False
+
+
+
+QUESTION: True or False: Static, simple fluids can exert pressure forces only on surfaces adjacent to them.
+
+ANSWER: True
+
+
+
+QUESTION: Define the Archimedes' Principle.
+
+ANSWER: The Archimedes' Principle states that the buoyant force of an object in water is exactly equal to the weight of the air and the water displaced.
+
+
+
+QUESTION: What is a manometer?
+
+ANSWER: A manometer is a pressure-measuring device, typically U-shaped to read fluid heights. It is one of the most accurate devices to use when measuring pressure at lower ranges.
+
+
+
+QUESTION: True or False: In regards to fluid flow in a pipe, the velocity of the fluid near the walls is slower than that of the fluid in the middle.
+
+ANSWER: True
+
+
+
+QUESTION: True or False: Laminar flow has more variation than block flow in terms of fluid velocities at different points in a pipe.
+
+ANSWER: True
+
+
+
+QUESTION: True or False: Laminar flow is the most common type of fluid flow in industrial applications.
+
+ANSWER: False
+
+
+
+QUESTION: True or False: Viscosity has units of (force * time / area) or (pressure * time).
+
+ANSWER: True
+
+
+
+QUESTION: Define a normal shock wave.
+
+ANSWER: A normal shock wave is a large pressure disturbance that travels faster than the local speed of sounds. Normal shock waves are irreversible, causing an increase in the entropy of the fluid flowing through them.
+
+
+
+QUESTION: What purpose does a diffuser accomplish?
+
+ANSWER: Regarding a diffuser, gas enters its nozzle in supersonic flow and emerges in subsonic flow.
+
+
+
+QUESTION: List the three modes of heat transfer.
+
+ANSWER: The three modes of heat transfer are conduction, convection, and radiation.
+
+
+
+QUESTION: What is heat transfer in engineering terms?
+
+ANSWER: Heat transfer is the science that seeks to predict the energy transfer that may take place between material bodies as a result of a temperature difference. It seeks to predict the rate at which heat will be exchanged under certain specified conditions and between certain materials.
+
+
+
+QUESTION: What is Fourier's Law?
+
+ANSWER: Fourier's Law states that the energy transferred by conduction is proportional to the thermal conductivity of the material times the area of heat transfer times the normal temperature gradient.
+
+
+
+QUESTION: Explain Newton's Law of Cooling.
+
+ANSWER: Newton's Law of Cooling states that the energy transferred by convection is proportional to the convection heat transfer coefficient times the area of heat transfer times the temperature difference.
+
+
+
+QUESTION: What is a blackbody in terms of heat transfer?
+
+ANSWER: In radiation heat transfer, a blackbody is an ideal radiator that radiates energy at a rate proportional to its absolute temperature to the fourth power.
+
+
+
+QUESTION: Vaporization begins at which point?
+a) Dew point
+b) Bubble point
+c) Triple point
+d) None of the above
+
+ANSWER: b) Bubble point
+
+
+
+QUESTION: Which of the following represents vaporization?
+a) Change of vapor to liquid
+b) Change of vapor to solid
+c) Change of solid to vapor
+d) Change of liquid to vapor
+
+ANSWER: d) Change of liquid to vapor
+
+
+
+QUESTION: What is the vaporization temperature of water at standard conditions?
+a) 100 degF
+b) 212 degF
+c) 345 degF
+d) 432 degF
+
+ANSWER: b) 212 degF
+
+
+
+QUESTION: What is the point of saturation of a condensable vapor?
+a) Bubble point
+b) Boiling point
+c) Triple point
+d) Dew point
+
+ANSWER: d) Dew point
+
+
+
+QUESTION: Internal energy change of a system over one complete cycle in a cyclic process is
+a) zero
+b) +ve
+c) -ve
+d) dependent on the path
+
+ANSWER: a) zero
+
+
+
+QUESTION: Heating of water under atmospheric pressure is an __________ process.
+a) isochoric
+b) isobaric
+c) adiabatic
+d) isothermal
+
+ANSWER: b) isobaric
+
+
+
+QUESTION: High __________ is an undesirable property for a good refrigerant.
+a) specific heat
+b) latent heat of vaporisation
+c) viscosity
+d) specific vapor volume
+
+ANSWER: c) viscosity
+
+
+
+QUESTION: The heat capacities for the ideal gas state depend upon the
+a) pressure
+b) temperature
+c) both (a) & (b)
+d) neither (a) nor (b)
+
+ANSWER: b) temperature
+
+
+
+QUESTION: The equation, PV = nRT, is best obeyed by gases at
+a) low pressure & high temperature
+b) high pressure & low temperature
+c) low pressure & low temperature
+d) none of these
+
+ANSWER: a) low pressure & high temperature
+
+
+
+QUESTION: Which of the following liquid metals has the highest thermal conductivity?
+a) Molten sodium
+b) Molten lead
+c) Mercury
+d) Molten potassium
+
+ANSWER: a) Molten sodium
+
+
+
+QUESTION: If the internal energy of an ideal gas decreases by the same amount as the work done by the system, then the
+a) process must be isobaric
+b) temperature must decrease
+c) process must be adiabatic
+d) both (b) and (c)
+
+ANSWER: d) both (b) and (c)
+
+
+
+QUESTION: During a reversible isothermal expansion of an ideal gas, the entropy change is
+a) +ve
+b) 0
+c) -ve
+d) ∞
+
+ANSWER: a) +ve
+
+
+
+QUESTION: Which of the following is not affected by temperature changes?
+a) Fugacity
+b) Activity co-efficient
+c) Free energy
+d) None of these
+
+ANSWER: d) None of these
+
+
+
+QUESTION: Those solutions in which there is no volume change upon mixing the components in the liquid state and which, when diluted do not undergo any heat change (i.e. heat of dilution is zero), are called __________ solutions.
+a) ideal
+b) real
+c) isotonic
+d) none of these
+
+ANSWER: a) ideal
+
+
+
+QUESTION: Generation of heat by friction is an example of a/an __________ change.
+a) isothermal
+b) irreversible
+c) adiabatic
+d) reversible
+
+ANSWER: b) irreversible
